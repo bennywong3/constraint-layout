@@ -1,8 +1,8 @@
-### I followed the link below to finish this Android Studio constraint layout training
+**I followed the link below to finish this Android Studio constraint layout training**
 
 https://github.com/hkucs-makerlab/constraint-layout
 
-#### This repo serves as a backup of the codes written during the training
+This repo serves as a backup of the codes written during the training
 
 This folder contains the source code for the [ConstraintLayout codelab](https://codelabs.developers.google.com/codelabs/constraint-layout/)
 
